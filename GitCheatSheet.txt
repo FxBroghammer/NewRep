@@ -1,0 +1,5 @@
+###Git Cheatsheet###
+git add FILE.txt # Add file to staging area
+git status # Check the status of the repository
+git commit -m "comment" # put files from staging area in repository
+git push # put files to online repository. Have your token ready
